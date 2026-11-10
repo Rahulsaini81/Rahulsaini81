@@ -31,11 +31,11 @@ I have **3+ years of hands-on experience** and have delivered **50+ live website
 
 <p align="center"><img src="assets/h-what.svg" width="100%" alt="What I Do" /></p>
 <p align="center">
-<img src="assets/do-themes.svg" width="424" alt="Custom WordPress Themes" />
-<img src="assets/do-plugins.svg" width="424" alt="Plugin Development" />
+<img src="assets/do-themes.svg" width="404" alt="Custom WordPress Themes" />
+<img src="assets/do-plugins.svg" width="404" alt="Plugin Development" />
 <br/>
-<img src="assets/do-shopify.svg" width="424" alt="Shopify and eCommerce" />
-<img src="assets/do-speed.svg" width="424" alt="Speed, SEO and Maintenance" />
+<img src="assets/do-shopify.svg" width="404" alt="Shopify and eCommerce" />
+<img src="assets/do-speed.svg" width="404" alt="Speed, SEO and Maintenance" />
 </p>
 
 <br/>
@@ -71,25 +71,25 @@ I have **3+ years of hands-on experience** and have delivered **50+ live website
 
 <p align="center"><img src="assets/h-projects.svg" width="100%" alt="Live Projects - 50+ client websites delivered" /></p>
 <p align="center">
-<a href="https://biofrankpharma.com/"><img src="assets/p-biofrank-pharma.svg" width="278" alt="Biofrank Pharma" /></a>
-<a href="https://vsraviation.com/"><img src="assets/p-vsr-aviation.svg" width="278" alt="VSR Aviation" /></a>
-<a href="https://www.biolaxienzymes.com/"><img src="assets/p-biolaxi-enzymes.svg" width="278" alt="Biolaxi Enzymes" /></a>
+<a href="https://biofrankpharma.com/"><img src="assets/p-biofrank-pharma.svg" width="268" alt="Biofrank Pharma" /></a>
+<a href="https://vsraviation.com/"><img src="assets/p-vsr-aviation.svg" width="268" alt="VSR Aviation" /></a>
+<a href="https://www.biolaxienzymes.com/"><img src="assets/p-biolaxi-enzymes.svg" width="268" alt="Biolaxi Enzymes" /></a>
 <br/>
-<a href="https://maamagic.in/"><img src="assets/p-maa-magic.svg" width="278" alt="Maa Magic" /></a>
-<a href="https://www.amplesta.com/"><img src="assets/p-amplesta.svg" width="278" alt="Amplesta" /></a>
-<a href="https://www.khannatraders.com/"><img src="assets/p-khanna-traders.svg" width="278" alt="Khanna Traders" /></a>
+<a href="https://maamagic.in/"><img src="assets/p-maa-magic.svg" width="268" alt="Maa Magic" /></a>
+<a href="https://www.amplesta.com/"><img src="assets/p-amplesta.svg" width="268" alt="Amplesta" /></a>
+<a href="https://www.khannatraders.com/"><img src="assets/p-khanna-traders.svg" width="268" alt="Khanna Traders" /></a>
 <br/>
-<a href="https://www.shahihandicrafts.in/"><img src="assets/p-shahi-handicrafts.svg" width="278" alt="Shahi Handicrafts" /></a>
-<a href="https://www.hospitalfurnituresindia.com/"><img src="assets/p-kay-pee-udyog.svg" width="278" alt="Kay Pee Udyog" /></a>
-<a href="https://frontiergroup.co.in/"><img src="assets/p-frontier-group.svg" width="278" alt="Frontier Group" /></a>
+<a href="https://www.shahihandicrafts.in/"><img src="assets/p-shahi-handicrafts.svg" width="268" alt="Shahi Handicrafts" /></a>
+<a href="https://www.hospitalfurnituresindia.com/"><img src="assets/p-kay-pee-udyog.svg" width="268" alt="Kay Pee Udyog" /></a>
+<a href="https://frontiergroup.co.in/"><img src="assets/p-frontier-group.svg" width="268" alt="Frontier Group" /></a>
 <br/>
-<a href="https://www.chemazonlabs.com/"><img src="assets/p-chemazon-labs.svg" width="278" alt="Chemazon Labs" /></a>
-<a href="https://biomatrixhealthcare.com/"><img src="assets/p-bio-matrix-healthcare.svg" width="278" alt="Bio Matrix Healthcare" /></a>
-<a href="https://store.nanochemazone.com/"><img src="assets/p-nanochemazone-store.svg" width="278" alt="Nanochemazone Store" /></a>
+<a href="https://www.chemazonlabs.com/"><img src="assets/p-chemazon-labs.svg" width="268" alt="Chemazon Labs" /></a>
+<a href="https://biomatrixhealthcare.com/"><img src="assets/p-bio-matrix-healthcare.svg" width="268" alt="Bio Matrix Healthcare" /></a>
+<a href="https://store.nanochemazone.com/"><img src="assets/p-nanochemazone-store.svg" width="268" alt="Nanochemazone Store" /></a>
 <br/>
-<a href="https://romalia.in/"><img src="assets/p-romalia.svg" width="278" alt="Romalia" /></a>
-<a href="https://www.metalspowders.com/"><img src="assets/p-aritech.svg" width="278" alt="Aritech" /></a>
-<a href="https://thehealthmaster.com/"><img src="assets/p-the-health-master.svg" width="278" alt="The Health Master" /></a>
+<a href="https://romalia.in/"><img src="assets/p-romalia.svg" width="268" alt="Romalia" /></a>
+<a href="https://www.metalspowders.com/"><img src="assets/p-aritech.svg" width="268" alt="Aritech" /></a>
+<a href="https://thehealthmaster.com/"><img src="assets/p-the-health-master.svg" width="268" alt="The Health Master" /></a>
 <br/>
 </p>
 <p align="center"><sub><b>Also built:</b> Professional Plumbing, Career Booster, Alumex International, Squad Industrial Training, Peak Performance, Pink Holiday, Teach House, Buyprint, Being Mom and more.</sub></p>
