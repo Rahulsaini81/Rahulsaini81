@@ -1,75 +1,46 @@
 <!--
-  GitHub profile README for Rahulsaini81
-  HOW TO USE: GitHub -> repo "Rahulsaini81" -> README.md -> pencil icon -> paste all of this -> Commit.
-  REPLACE BEFORE COMMIT: YOUR-LINKEDIN-USERNAME (LinkedIn badge near the top and in "Let's Connect").
+  GitHub profile README for Rahulsaini81  (self-hosted animated SVGs in the assets/ folder)
+  UPLOAD: put README.md and the whole assets/ folder in the repo "Rahulsaini81" (branch main).
+  REPLACE: YOUR-LINKEDIN-USERNAME (appears twice) with your real LinkedIn username.
 -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F1B3D,100:2563EB&text=Rahul%20Saini&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=WordPress%20%26%20Shopify%20Developer&descAlignY=60&descSize=22&animation=fadeIn" width="100%" alt="Rahul Saini - WordPress and Shopify Developer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=720&height=45&lines=Custom+WordPress+Themes+%26+Plugins;Shopify+Store+Development;Figma+to+WordPress+Conversion;50%2B+Live+Websites+Delivered" alt="Typing animation" />
-
-<br/>
-
-<a href="https://sainiwebtech.com"><img src="https://img.shields.io/badge/Portfolio-0F1B3D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:rahulsaini11126@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Open%20to%20Work-WordPress%20%7C%20Shopify%20%7C%20Frontend-22C55E?style=for-the-badge" alt="Open to work" />
-
-</div>
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Rahul Saini - WordPress and Shopify Developer" />
+</p>
+<p align="center">
+  <img src="assets/marquee.svg" width="100%" alt="Skills: WordPress, Shopify, PHP, JavaScript, Elementor, WPBakery, Figma" />
+</p>
+<p align="center">
+  <a href="https://sainiwebtech.com"><img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:rahulsaini11126@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Rahulsaini81"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 <br/>
 
-## 👋 About Me
+<p align="center"><img src="assets/h-about.svg" width="100%" alt="About Me" /></p>
 
 Hi, I'm **Rahul Saini**, a WordPress & Shopify Developer from Ambala, Haryana. I turn Figma designs into **fast, responsive, SEO-friendly websites** and build custom themes, plugins and eCommerce stores that clients can manage on their own.
 
 I have **3+ years of hands-on experience** and have delivered **50+ live websites** for clients in pharma, aviation, manufacturing, retail and services. I'm open to **WordPress, Shopify and Frontend roles**, and remote opportunities are welcome.
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%"><h2>3+</h2>Years of Experience</td>
-    <td align="center" width="25%"><h2>50+</h2>Live Websites</td>
-    <td align="center" width="25%"><h2>3</h2>Companies</td>
-    <td align="center" width="25%"><h2>WP + Shopify</h2>Core Platforms</td>
-  </tr>
-</table>
-
-</div>
+<p align="center"><img src="assets/stats.svg" width="100%" alt="3+ years of experience, 50+ live websites, 3 companies, WordPress and Shopify" /></p>
 
 <br/>
 
-## 🚀 What I Do
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 Custom WordPress Themes</h3>
-      Pixel-perfect, responsive themes built from scratch with clean code, compatible with Elementor and WPBakery.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 Plugin Development</h3>
-      Custom WordPress plugins, such as a multi-level dropdown navigation menu with submenu support.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 Shopify & eCommerce</h3>
-      Theme customization with Liquid, product and collection management, cart flows, payment gateways and API integrations.
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Speed, SEO & Maintenance</h3>
-      WebP images, minified CSS/JS, clean heading structure, meta tags, cross-browser testing, deployment and bug fixing.
-    </td>
-  </tr>
-</table>
+<p align="center"><img src="assets/h-what.svg" width="100%" alt="What I Do" /></p>
+<p align="center">
+<img src="assets/do-themes.svg" width="424" alt="Custom WordPress Themes" />
+<img src="assets/do-plugins.svg" width="424" alt="Plugin Development" />
+<br/>
+<img src="assets/do-shopify.svg" width="424" alt="Shopify and eCommerce" />
+<img src="assets/do-speed.svg" width="424" alt="Speed, SEO and Maintenance" />
+</p>
 
 <br/>
 
-## 🛠️ Tech Stack
+<p align="center"><img src="assets/h-stack.svg" width="100%" alt="Tech Stack" /></p>
 
 **Frontend**<br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -94,72 +65,69 @@ I have **3+ years of hands-on experience** and have delivered **50+ live website
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 <br/>
 
-## 🌐 Live Projects
-
-**50+ client websites delivered.** A few of them, click to open the live site:
-
-<table>
-  <tr>
-    <td><a href="https://biofrankpharma.com/">Biofrank Pharma</a></td>
-    <td><a href="https://vsraviation.com/">VSR Aviation</a></td>
-    <td><a href="https://www.biolaxienzymes.com/">Biolaxi Enzymes</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://maamagic.in/">Maa Magic</a></td>
-    <td><a href="https://www.amplesta.com/">Amplesta</a></td>
-    <td><a href="https://www.khannatraders.com/">Khanna Traders</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.shahihandicrafts.in/">Shahi Handicrafts</a></td>
-    <td><a href="https://www.hospitalfurnituresindia.com/">Kay Pee Udyog</a></td>
-    <td><a href="https://frontiergroup.co.in/">Frontier Group</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.chemazonlabs.com/">Chemazon Labs</a></td>
-    <td><a href="https://biomatrixhealthcare.com/">Bio Matrix Healthcare</a></td>
-    <td><a href="https://store.nanochemazone.com/">Nanochemazone Store</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://romalia.in/">Romalia</a></td>
-    <td><a href="https://www.metalspowders.com/">Aritech (Metals & Powders)</a></td>
-    <td><a href="https://thehealthmaster.com/">The Health Master</a></td>
-  </tr>
-</table>
+<p align="center"><img src="assets/h-projects.svg" width="100%" alt="Live Projects - 50+ client websites delivered" /></p>
+<p align="center">
+<a href="https://biofrankpharma.com/"><img src="assets/p-biofrank-pharma.svg" width="278" alt="Biofrank Pharma" /></a>
+<a href="https://vsraviation.com/"><img src="assets/p-vsr-aviation.svg" width="278" alt="VSR Aviation" /></a>
+<a href="https://www.biolaxienzymes.com/"><img src="assets/p-biolaxi-enzymes.svg" width="278" alt="Biolaxi Enzymes" /></a>
+<br/>
+<a href="https://maamagic.in/"><img src="assets/p-maa-magic.svg" width="278" alt="Maa Magic" /></a>
+<a href="https://www.amplesta.com/"><img src="assets/p-amplesta.svg" width="278" alt="Amplesta" /></a>
+<a href="https://www.khannatraders.com/"><img src="assets/p-khanna-traders.svg" width="278" alt="Khanna Traders" /></a>
+<br/>
+<a href="https://www.shahihandicrafts.in/"><img src="assets/p-shahi-handicrafts.svg" width="278" alt="Shahi Handicrafts" /></a>
+<a href="https://www.hospitalfurnituresindia.com/"><img src="assets/p-kay-pee-udyog.svg" width="278" alt="Kay Pee Udyog" /></a>
+<a href="https://frontiergroup.co.in/"><img src="assets/p-frontier-group.svg" width="278" alt="Frontier Group" /></a>
+<br/>
+<a href="https://www.chemazonlabs.com/"><img src="assets/p-chemazon-labs.svg" width="278" alt="Chemazon Labs" /></a>
+<a href="https://biomatrixhealthcare.com/"><img src="assets/p-bio-matrix-healthcare.svg" width="278" alt="Bio Matrix Healthcare" /></a>
+<a href="https://store.nanochemazone.com/"><img src="assets/p-nanochemazone-store.svg" width="278" alt="Nanochemazone Store" /></a>
+<br/>
+<a href="https://romalia.in/"><img src="assets/p-romalia.svg" width="278" alt="Romalia" /></a>
+<a href="https://www.metalspowders.com/"><img src="assets/p-aritech.svg" width="278" alt="Aritech" /></a>
+<a href="https://thehealthmaster.com/"><img src="assets/p-the-health-master.svg" width="278" alt="The Health Master" /></a>
+<br/>
+</p>
+<p align="center"><sub><b>Also built:</b> Professional Plumbing, Career Booster, Alumex International, Squad Industrial Training, Peak Performance, Pink Holiday, Teach House, Buyprint, Being Mom and more.</sub></p>
 
 <br/>
 
-## 📁 Featured Repositories
-
-| Repository | What it is | Tech |
-| --- | --- | --- |
-| [**Portfolio**](https://github.com/Rahulsaini81/Portfolio) | Personal portfolio website | HTML, CSS |
-| [**Rahul-portfolio**](https://github.com/Rahulsaini81/Rahul-portfolio) | Portfolio website, alternate version | HTML, CSS |
-
-<br/>
-
-## 💼 Experience
-
-| Role | Company | Duration |
-| --- | --- | --- |
-| Website Developer | [Squad IT Biz LLP](https://squaditbiz.com/) | Jun 2025 – Feb 2026 |
-| WordPress Developer | [Wisewaytec](https://wisewaytec.com/) | Jun 2024 – Dec 2024 |
-| Web Developer | Professional Service India | Mar 2022 – Jun 2024 |
-
-🎓 B.A., Kurukshetra University · Certificate in Web Designing & Multimedia, Hartron Skill Centre
+<p align="center"><img src="assets/h-experience.svg" width="100%" alt="Professional Experience" /></p>
+<p align="center">
+<a href="https://squaditbiz.com/"><img src="assets/e-squad.svg" width="100%" alt="Website Developer at Squad IT Biz LLP" /></a>
+</p>
+<p align="center">
+<a href="https://wisewaytec.com/"><img src="assets/e-wiseway.svg" width="100%" alt="WordPress Developer at Wisewaytec" /></a>
+</p>
+<p align="center">
+<img src="assets/e-psi.svg" width="100%" alt="Web Developer at Professional Service India" />
+</p>
+<p align="center"><sub>🎓 B.A., Kurukshetra University &nbsp;·&nbsp; Certificate in Web Designing & Multimedia, Hartron Skill Centre</sub></p>
 
 <br/>
 
-## 📫 Let's Connect
+<p align="center"><img src="assets/h-repos.svg" width="100%" alt="Featured Repositories" /></p>
+<p align="center">
+<a href="https://github.com/Rahulsaini81/Portfolio"><img src="assets/r-portfolio.svg" width="278" alt="Portfolio repository" /></a>
+<a href="https://github.com/Rahulsaini81/Rahul-portfolio"><img src="assets/r-rahul-portfolio.svg" width="278" alt="Rahul-portfolio repository" /></a>
+</p>
 
-Have a WordPress or Shopify project, or a role where I can help? I'd love to hear from you.
+<br/>
 
-<a href="mailto:rahulsaini11126@gmail.com"><img src="https://img.shields.io/badge/rahulsaini11126@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://sainiwebtech.com"><img src="https://img.shields.io/badge/sainiwebtech.com-0F1B3D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<p align="center"><img src="assets/h-connect.svg" width="100%" alt="Let's Connect" /></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2563EB,100:0F1B3D&section=footer" width="100%" alt="" />
+<p align="center">Have a WordPress or Shopify project, or a role where I can help? I'd love to hear from you.</p>
+
+<p align="center">
+  <a href="mailto:rahulsaini11126@gmail.com"><img src="https://img.shields.io/badge/rahulsaini11126@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://sainiwebtech.com"><img src="https://img.shields.io/badge/sainiwebtech.com-5B21B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Thanks for visiting. Let's build something great together." />
+</p>
